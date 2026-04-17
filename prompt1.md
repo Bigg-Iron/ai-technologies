@@ -1,0 +1,26 @@
+Write a report that explain these technologies in detail, what role do they play in the entire software development lifecycle, how they compare to competitors, and how they are used together in a stack. It might be helpful to group similar technologies together, and real world examples.
+
+- Next.js
+- Vercel
+- Supabase
+- Tailwind CSS
+- tRPC
+- pinecone  
+- LangChain
+- OpenAI API
+- Google Gemini API
+- Google Cloud Platform
+- Google AI studio
+- Google Vertex AI  
+- hugging face
+- E2B
+- Jan
+- llama 3.3
+- copilot
+- groq
+- perplexity
+- gradio
+- ChatGpt
+- Claude
+- Gemini
+- Github, Git, Github Copilot
